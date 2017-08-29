@@ -1,0 +1,11 @@
+C:\DignityHealth\SendGrid_POC\SendGrid_POC\bin\Debug\SendGrid_POC.exe.config
+C:\DignityHealth\SendGrid_POC\SendGrid_POC\bin\Debug\SendGrid_POC.exe
+C:\DignityHealth\SendGrid_POC\SendGrid_POC\bin\Debug\SendGrid_POC.pdb
+C:\DignityHealth\SendGrid_POC\SendGrid_POC\bin\Debug\Newtonsoft.Json.dll
+C:\DignityHealth\SendGrid_POC\SendGrid_POC\bin\Debug\SendGrid.dll
+C:\DignityHealth\SendGrid_POC\SendGrid_POC\bin\Debug\Newtonsoft.Json.xml
+C:\DignityHealth\SendGrid_POC\SendGrid_POC\bin\Debug\SendGrid.pdb
+C:\DignityHealth\SendGrid_POC\SendGrid_POC\bin\Debug\SendGrid.xml
+C:\DignityHealth\SendGrid_POC\SendGrid_POC\obj\Debug\SendGrid_POC.csprojResolveAssemblyReference.cache
+C:\DignityHealth\SendGrid_POC\SendGrid_POC\obj\Debug\SendGrid_POC.exe
+C:\DignityHealth\SendGrid_POC\SendGrid_POC\obj\Debug\SendGrid_POC.pdb
